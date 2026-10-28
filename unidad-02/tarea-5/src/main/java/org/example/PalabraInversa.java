@@ -3,7 +3,7 @@ package ies.puerto.es;
 /**
  * @author Cristian GP
  */
-public class ClaveSecreta {
+public class PalabraInversa
     static void main() {
 Scanner teclado = new Scanner(System.in);
         System.out.println("Introduce una palabra");
